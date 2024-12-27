@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "image": "https://example.com/images/product1.jpg",
+      "heading": "Elegant Flower Vase",
+      "paragraph": "A beautifully crafted flower vase that adds charm to any space. Perfect for gifting or home decor.",
+      "rating": 4.8
+    },
+    {
+      "id": 2,
+      "image": "https://example.com/images/product2.jpg",
+      "heading": "Personalized Photo Frame",
+      "paragraph": "Capture your special moments with this customizable photo frame, ideal for any occasion.",
+      "rating": 4.7
+    },
+    {
+      "id": 3,
+      "image": "https://example.com/images/product3.jpg",
+      "heading": "Handmade Scented Candles",
+      "paragraph": "Relax and unwind with our handmade scented candles, available in a variety of soothing fragrances.",
+      "rating": 4.9
+    },
+    {
+      "id": 4,
+      "image": "https://example.com/images/product4.jpg",
+      "heading": "Luxury Leather Wallet",
+      "paragraph": "A sleek and stylish leather wallet designed for durability and functionality. A perfect gift for him.",
+      "rating": 4.6
+    },
+    {
+      "id": 5,
+      "image": "https://example.com/images/product5.jpg",
+      "heading": "Customized Coffee Mug",
+      "paragraph": "Start your day with a smile using our customizable coffee mugs. Personalize with text or photos.",
+      "rating": 4.8
+    },
+    {
+      "id": 6,
+      "image": "https://example.com/images/product6.jpg",
+      "heading": "Elegant Jewelry Box",
+      "paragraph": "Keep your precious items safe and stylish in this elegant and compact jewelry box.",
+      "rating": 4.5
+    },
+    {
+      "id": 7,
+      "image": "https://example.com/images/product7.jpg",
+      "heading": "Gourmet Chocolate Hamper",
+      "paragraph": "Indulge in the richness of our gourmet chocolate hamper, a delightful treat for chocolate lovers.",
+      "rating": 4.9
+    },
+    {
+      "id": 8,
+      "image": "https://example.com/images/product8.jpg",
+      "heading": "Plush Teddy Bear",
+      "paragraph": "Soft and cuddly, this plush teddy bear is a heartwarming gift for loved ones of all ages.",
+      "rating": 4.7
+    },
+    {
+      "id": 9,
+      "image": "https://example.com/images/product9.jpg",
+      "heading": "Stylish Notebook Set",
+      "paragraph": "Jot down your thoughts and ideas in our stylish notebook set, perfect for students and professionals.",
+      "rating": 4.6
+    },
+    {
+      "id": 10,
+      "image": "https://example.com/images/product10.jpg",
+      "heading": "Artisan Tea Gift Box",
+      "paragraph": "Experience the finest blends with our artisan tea gift box, a perfect present for tea enthusiasts.",
+      "rating": 4.8
+    }
+  ]
+  
