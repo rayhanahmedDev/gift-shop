@@ -1,73 +1,83 @@
 [
     {
       "id": 1,
-      "image": "https://example.com/images/product1.jpg",
-      "heading": "Elegant Flower Vase",
-      "paragraph": "A beautifully crafted flower vase that adds charm to any space. Perfect for gifting or home decor.",
-      "rating": 4.8
+      "image": "https://i.ibb.co.com/72h0q8V/product-7-2.png",
+      "heading": "Pink Gift Box With Name Tag",
+      "paragraph": " gifting or home decor.",
+      "rating": 4.8,
+      "price": 29.99
     },
     {
       "id": 2,
-      "image": "https://example.com/images/product2.jpg",
-      "heading": "Personalized Photo Frame",
-      "paragraph": "Capture your special moments with this customizable photo frame, ideal for any occasion.",
-      "rating": 4.7
+      "image": "https://i.ibb.co.com/J2DT2P5/product-8-1.png",
+      "heading": "Special Bow Made White Gift Box",
+      "paragraph": "o frame, ideal for any occasion.",
+      "rating": 4.7,
+      "price": 19.99
     },
     {
       "id": 3,
-      "image": "https://example.com/images/product3.jpg",
-      "heading": "Handmade Scented Candles",
-      "paragraph": "Relax and unwind with our handmade scented candles, available in a variety of soothing fragrances.",
-      "rating": 4.9
+      "image": "https://i.ibb.co.com/921mvGd/product-9-1.png",
+      "heading": "Set of 5 Paper Gift Box",
+      "paragraph": " variety of soothing fragrances.",
+      "rating": 4.9,
+      "price": 15.49
     },
     {
       "id": 4,
-      "image": "https://example.com/images/product4.jpg",
-      "heading": "Luxury Leather Wallet",
+      "image": "https://i.ibb.co.com/4gTRj3J/product-18.png",
+      "heading": "Light Pink Paper Made Gift Box",
       "paragraph": "A sleek and stylish leather wallet designed for durability and functionality. A perfect gift for him.",
-      "rating": 4.6
+      "rating": 4.6,
+      "price": 39.99
     },
     {
       "id": 5,
-      "image": "https://example.com/images/product5.jpg",
-      "heading": "Customized Coffee Mug",
+      "image": "https://i.ibb.co.com/c10wn4t/product-19.png",
+      "heading": "Dotted Wrapping Paper Box",
       "paragraph": "Start your day with a smile using our customizable coffee mugs. Personalize with text or photos.",
-      "rating": 4.8
+      "rating": 4.8,
+      "price": 12.99
     },
     {
       "id": 6,
-      "image": "https://example.com/images/product6.jpg",
-      "heading": "Elegant Jewelry Box",
+      "image": "https://i.ibb.co.com/3NRMLWL/product-20.png",
+      "heading": "Fragrance Candle for Gift",
       "paragraph": "Keep your precious items safe and stylish in this elegant and compact jewelry box.",
-      "rating": 4.5
+      "rating": 4.5,
+      "price": 25.99
     },
     {
       "id": 7,
-      "image": "https://example.com/images/product7.jpg",
-      "heading": "Gourmet Chocolate Hamper",
+      "image": "https://i.ibb.co.com/jbF4vjT/product-24.png",
+      "heading": "Bow Made Paper Gift Box",
       "paragraph": "Indulge in the richness of our gourmet chocolate hamper, a delightful treat for chocolate lovers.",
-      "rating": 4.9
+      "rating": 4.9,
+      "price": 49.99
     },
     {
       "id": 8,
-      "image": "https://example.com/images/product8.jpg",
-      "heading": "Plush Teddy Bear",
+      "image": "https://i.ibb.co.com/C5kRVKD/product-26.png",
+      "heading": "Set of 2 Glitter Gift Box",
       "paragraph": "Soft and cuddly, this plush teddy bear is a heartwarming gift for loved ones of all ages.",
-      "rating": 4.7
+      "rating": 4.7,
+      "price": 18.99
     },
     {
       "id": 9,
-      "image": "https://example.com/images/product9.jpg",
+      "image": "https://i.ibb.co.com/gTLqnYs/2887.jpg",
       "heading": "Stylish Notebook Set",
       "paragraph": "Jot down your thoughts and ideas in our stylish notebook set, perfect for students and professionals.",
-      "rating": 4.6
+      "rating": 4.6,
+      "price": 9.99
     },
     {
       "id": 10,
-      "image": "https://example.com/images/product10.jpg",
+      "image": "https://i.ibb.co.com/MN8zWB2/gift-box.jpg",
       "heading": "Artisan Tea Gift Box",
       "paragraph": "Experience the finest blends with our artisan tea gift box, a perfect present for tea enthusiasts.",
-      "rating": 4.8
+      "rating": 4.8,
+      "price": 34.99
     }
   ]
   
