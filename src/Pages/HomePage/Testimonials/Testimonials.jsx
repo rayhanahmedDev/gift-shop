@@ -9,8 +9,9 @@ import "swiper/css/navigation";
 export const Testimonials = () => {
   return (
     <section>
-      <div className="mb-8 mt-16">
+      <div className="mt-16">
         <h2 className="text-4xl font-semibold text-center">Reviews From The Clients</h2>
+        <p className="text-center text-[#01162DAB] mt-3">HAPPY CLIENTS ABOUT US</p>
       </div>
       <Swiper navigation={true} modules={[Navigation]} className="mySwiper">
         {/* 1st review */}
